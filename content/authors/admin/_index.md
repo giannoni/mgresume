@@ -80,4 +80,5 @@ I am a Ph.D. Candidate in the Political Science department at MIT, where I speci
 
 I am a Graduate Student Affiliate at Harvard’s Center for European Studies and a Graduate Research Fellow at MIT GOV/LAB. I received my BA in political science (with highest honor) from Universidad Torcuato Di Tella in Buenos Aires, where I also completed the coursework for the Master in Political Science.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ --->
