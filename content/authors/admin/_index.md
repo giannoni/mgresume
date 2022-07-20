@@ -1,33 +1,36 @@
 ---
 # Display name
-title: Matias Alberto Giannoni
+title: Matias Giannoni
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Massachusetts Instittue of Technology
+    url: https://www.mit.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Political Economy
+  - Political Behavior
+  - Causal Inference
+  - Business & Politics
+  - Southern Europe
+  - Latin America
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    - course: Ph.D. in Political Science
+      institution: Massachusetts Institute of Technology
+      year: 2017 - to date
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -70,8 +73,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Matias Giannoni is a Ph.D. Candidate in the Political Science department at MIT, where he specializes in political economy and quantitative methods. His research explores the political effects of firm strategies, the interaction between business and politics, and the relationship between local labor markets and politics. His dissertation project centers on the role that firms and workplaces have in shaping anti-system politics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He is a Graduate Student Affiliate at Harvard’s Center for European Studies and a Graduate Research Fellow at MIT GOV/LAB. He received his BA in political science (with highest honor) from Universidad Torcuato Di Tella in Buenos Aires.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
