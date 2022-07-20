@@ -23,7 +23,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - icon: python-brands
-    icon_pack: fas
+    icon_pack: custom
     name: Python
 
 # Uncomment to use emoji icons.
