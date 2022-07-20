@@ -25,6 +25,10 @@ feature:
   - icon: python
     icon_pack: fab
     name: Python
+  - icon: map
+    icon_pack: fab
+    name: GIS
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
