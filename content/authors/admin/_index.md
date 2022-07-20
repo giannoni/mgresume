@@ -10,7 +10,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Massachusetts Instittue of Technology
+  - name: Massachusetts Institute of Technology
     url: https://www.mit.edu
 
 # Short bio (displayed in user profile at end of posts)
