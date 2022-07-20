@@ -8,7 +8,7 @@
 appearance:
   theme_day: mine
   theme_night: mine
-  font: minimal
+  font: mine
   font_size: M
 
 # SEO
