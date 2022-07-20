@@ -22,8 +22,8 @@ feature:
   - icon: chart-line
     icon_pack: fas
     name: Statistics
-  - icon: python-brands
-    icon_pack: custom
+  - icon: python
+    icon_pack: fab
     name: Python
 
 # Uncomment to use emoji icons.
