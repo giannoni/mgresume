@@ -36,7 +36,7 @@ education:
       year: 2014 - 2017 (coursework completed)
     - course: BA in Political Science & Government
       institution: Universidad Torcuato Di Tella
-      year: 2008-2012
+      year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,22 +45,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:giannoni@mit.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/mati_g_90
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#    icon_pack: fas
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/giannoni
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
-  - icon: cv
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
