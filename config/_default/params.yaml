@@ -7,7 +7,6 @@
 
 appearance:
   theme_day: mine
-  theme_night: mine
   font: minimal
   font_size: M
 
