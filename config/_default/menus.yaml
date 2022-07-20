@@ -11,13 +11,13 @@ main:
 #    url: '#posts'
 #    weight: 20
   - name: Papers
-    url: '#projects'
+    url: '#publications'
     weight: 20
 #  - name: Publications
 #    url: '#featured'
 #    weight: 50
   - name: Teaching
-    url: '#teaching '
+    url: '#teaching'
     weight: 30
 
 # Link to a PDF of your resume/CV from the menu.
