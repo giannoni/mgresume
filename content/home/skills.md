@@ -22,7 +22,7 @@ feature:
   - icon: chart-line
     icon_pack: fas
     name: Statistics
-  - icon: fa-python
+  - icon: python-brands
     icon_pack: fas
     name: Python
 
