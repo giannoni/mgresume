@@ -1,6 +1,8 @@
 # Theme metadata
 name = "mine"
 
+[light]
+
   # Primary
   primary = "#FF8000"
 
