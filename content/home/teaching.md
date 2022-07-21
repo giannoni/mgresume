@@ -17,4 +17,4 @@ design:
 
 - {{% staticref "files/17_800_syll19.pdf" "newtab" %}} Quantitative Research Methods I{{% /staticref %}} (graduate). Fall 2019. Teaching Assistant for Daniel Hidalgo.
 
-- {{% staticref "files/preferesher_syllabus_2020.pdf" "newtab" %}} Political Science Math Prefresher{{% /staticref %}} (graduate). Summer 2019 & 2020. Instructor.
+- {{% staticref "files/prefresher_syllabus_2020.pdf" "newtab" %}} Political Science Math Prefresher{{% /staticref %}} (graduate). Summer 2019 & 2020. Instructor.
