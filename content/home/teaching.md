@@ -13,4 +13,4 @@ design:
 
 [Massachusetts Institute of Technology](http://www.mit.edu/)
 
-- [About](./static/syllabi/machine_learning_syllabus.pdf)
+{{% staticref "files/machine_learning_syllabus.pdf" "newtab" %}}Download my CV{{% /staticref %}}
