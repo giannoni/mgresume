@@ -13,4 +13,3 @@ design:
 
 [Massachusetts Institute of Technology](http://www.mit.edu/)
 
-- [Machine Learning]({{< ref "syllabi/machine_learning_syllabus.pdf" >}})
