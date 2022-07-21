@@ -13,4 +13,4 @@ design:
 
 [Massachusetts Institute of Technology](http://www.mit.edu/)
 
-- [Machine Learning and Data Science in Politics]({{% staticref "files/machine_learning_syllabus.pdf" "newtab" %}}Download my CV{{% /staticref %}}) (undergraduate). Spring 2020. Teaching Assistant for In Song Kim.
+- [Machine Learning and Data Science in Politics]({{% staticref "files/machine_learning_syllabus.pdf" "newtab" %}}) (undergraduate). Spring 2020. Teaching Assistant for In Song Kim.
