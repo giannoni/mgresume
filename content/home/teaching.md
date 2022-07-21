@@ -13,4 +13,4 @@ design:
 
 [Massachusetts Institute of Technology](http://www.mit.edu/)
 
-- [Machine Learning]({{% staticref "syllabi/machine_learning_syllabus.pdf" "newtab" %}})
+- [About]({{< ref "/static/syllabi/machine_learning_syllabus.pdf" >}})
