@@ -1,5 +1,5 @@
 ---
-title: 'The Politics of "Place": Community and Individual Precarity in Anti-System and Right Populist Views in France.'
+title: 'The Politics of "Place": Community and Individual Precarity in Anti-System and Right Populist Views in France'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -20,13 +20,11 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Working paper *(Under review)*.
+publication: Working paper *(Under review)*
 # publication_short: In *ICW*
 
-# abstract:
-# Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+abstract:
+summary: This paper evaluates the degree to which sociotropic and egotropic perceptions drive both political de-attachment and far-right populist parties support using historical survey data spanning 20 years of regional elections in France (1985-2004). It finds that negative sociotropic evaluations, net of egotropic perceptions, individual characteristics, ideology, department effects and common trends, have large positive effects on political de-attachment and support for the Front National. I complement these results with an original online survey experiment that assesses the degree in which populist and politically de-attached voters in economically lagging areas react to programmatic and ``outsider'' cues. A conjoint experiment (n=384) shows that respondents in high unemployment areas, abstainers and Le Pen voters are more favorable to outsider candidates, whereas programmatic stances only have positive effects among Le Pen voters. This indicates that the sociotropic effects of regional decline could favor outsider candidates even in the absence of a clear programmatic appeal.
 # tags: []
 
 # Display this page in the Featured widget?
