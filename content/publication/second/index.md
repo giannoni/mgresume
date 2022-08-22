@@ -1,11 +1,12 @@
 ---
-title: 'Who Benefits from Informality? Middle Classes and the Distributional Consequences of Informality.'
+title: 'Big Business and the Inequality Trap: Taxes, Collusion, and Undue Influence in Latin America..'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Ben Ross Schneider
 
 date: '2022-01-01T00:00:00Z'
 doi: ''
@@ -22,8 +23,6 @@ publication_types: ['3']
 # Publication name and optional abbreviated publication name.
 publication: Working paper
 # publication_short: In *ICW*
-
-abstract: This paper explores how middle-class employers structure informal urban labor markets. I explore the politics of forbearance and show that, unlike pre-existing research, the middle class and small business are key constituencies in the production of the political support needed to sustain forbearance. This project combines two months of fieldwork in six informal settlements in Buenos Aires, an original in-person survey conducted using a novel GIS mapping of Buenos Aires slums and private neighborhoods, and two original online survey experiments targeted to affluent neighborhoods in Buenos Aires City. Unlike previous research, I argue that for incumbent parties in large urban areas, forbearance might be a strategy to cater to urban middle classes as much as or even more than it is for catering to the urban poor. 
 
 
 # summary: 
