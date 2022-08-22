@@ -73,9 +73,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a Ph.D. Candidate in the Political Science department at MIT, where I specialize in political economy and quantitative methods. My research explores the political effects of firm strategies, the interaction between business and politics, and the relationship between local labor markets and politics. In my work I use big datasets, surveys and experiments to explore the relationships between firms, local labor markets and politics. My dissertation project centers on the role that firms and workplaces have in shaping anti-system politics. I show that firm-level employment strategies have large effects on perceptions of unfairness and on the development of anti-system political attitudes.
+I am a Ph.D. Candidate in the Political Science department at MIT, where I specialize in political economy and quantitative methods. My research explores the political effects of firm strategies, the interaction between business and politics, and the relationship between local labor markets and politics. In my work, I use big datasets, surveys and experiments to explore the relationships between firms, local labor markets and politics. My dissertation project centers on the role that firms and workplaces have in shaping anti-system politics. I show that firm-level employment strategies have large effects on perceptions of unfairness and on the development of anti-system political attitudes.
 
-I am a Graduate Student Affiliate at Harvard’s Center for European Studies and a Graduate Research Fellow at MIT GOV/LAB. I received my BA in political science (with highest honor) from Universidad Torcuato Di Tella in Buenos Aires, where I also completed the coursework for the Master in Political Science.
+I am a Graduate Student Affiliate at Harvard’s Center for European Studies and a Graduate Research Fellow at MIT GOV/LAB. I received my BA in Political Science (with highest honor) from Universidad Torcuato Di Tella in Buenos Aires, where I also completed the coursework for the Master in Political Science.
 
 <!--- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
  --->
