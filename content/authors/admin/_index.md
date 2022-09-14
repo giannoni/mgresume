@@ -21,6 +21,7 @@ interests:
   - Political Economy
   - Political Behavior
   - Causal Inference
+  - Machine Learning
   - Business & Politics
   - Southern Europe
   - Latin America
