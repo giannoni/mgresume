@@ -1,6 +1,5 @@
 ---
-title: 'When Opportunism Knocks: Political Parties and Land Occupations during COVID-19 in
-Argentina and South Africa'
+title: 'Voting Against the Chief: The Historical Roots of Contentious Politics in South Africa'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
