@@ -22,7 +22,7 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Working in progress
+# publication: 
 # publication_short: In *ICW*
 
 abstract: 
