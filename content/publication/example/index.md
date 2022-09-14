@@ -35,7 +35,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'content/publication/example/main_april_2022.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
