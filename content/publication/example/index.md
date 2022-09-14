@@ -28,7 +28,7 @@ abstract: This paper evaluates the degree to which sociotropic and egotropic per
 # tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
