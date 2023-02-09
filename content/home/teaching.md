@@ -12,7 +12,7 @@ design:
 ---
 
 [Massachusetts Institute of Technology](http://www.mit.edu/)
-
+ 
 - {{% staticref "files/machine_learning_syllabus.pdf" "newtab" %}} Machine Learning and Data Science in Politics{{% /staticref %}} (undergraduate). Spring 2020. Teaching Assistant for In Song Kim.
 
 - {{% staticref "files/17_800_syll19.pdf" "newtab" %}} Quantitative Research Methods I{{% /staticref %}} (graduate). Fall 2019. Teaching Assistant for Daniel Hidalgo.
